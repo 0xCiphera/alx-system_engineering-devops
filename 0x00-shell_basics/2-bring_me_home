@@ -1,0 +1,2 @@
+#!/bin/bash
+cd //without parameters takes you to the home directory

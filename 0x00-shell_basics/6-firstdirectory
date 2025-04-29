@@ -1,0 +1,2 @@
+#!/bin/bash
+mkdir -p tmp/my_first_directory   // -p resolves the issue of creting tmp if it was not present before hand

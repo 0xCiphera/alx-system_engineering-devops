@@ -1,0 +1,2 @@
+#!/bin/bash
+ls -la .. //lists all the files incluing those that starts with a dot which are normally hidden
